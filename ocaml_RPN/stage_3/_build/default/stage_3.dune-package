@@ -1,0 +1,4 @@
+(lang dune 3.10)
+(name stage_3)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (stage_3)))

@@ -1,0 +1,4 @@
+(executable
+ (public_name stage_1_and_2)
+ (name main)
+ (libraries stage_1_and_2))

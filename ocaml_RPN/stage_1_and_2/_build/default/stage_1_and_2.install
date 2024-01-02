@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/stage_1_and_2/META"
+  "_build/install/default/lib/stage_1_and_2/dune-package"
+  "_build/install/default/lib/stage_1_and_2/opam"
+]
+bin: [
+  "_build/install/default/bin/stage_1_and_2"
+]
